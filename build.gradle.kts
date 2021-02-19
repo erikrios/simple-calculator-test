@@ -13,4 +13,6 @@ dependencies {
     implementation(kotlin("stdlib"))
     testImplementation("junit:junit:4.12")
     testImplementation ("org.mockito:mockito-core:2.19.0")
+    testImplementation ("org.mockito:mockito-inline:2.13.0")
+
 }
